@@ -1,0 +1,39 @@
+#navbar{
+    background-color: #DE1D22!important;
+
+}
+
+.navbar-text{
+    text-align: right;
+}
+#contenedor_cards{
+    margin-top: 2rem !important;
+    display: flex !important; 
+    justify-content: center !important;
+}
+.card-title{
+    text-align: center !important;
+}
+.card{
+    background-color: #ededed;
+    margin-bottom: 2rem;
+}
+.contenedor-icono{
+    text-align:center !important;
+    margin-top: 1em;
+}
+*{
+    font-family: 'Inter', sans-serif;
+}
+footer{
+    background-color: #DE1D22;
+}
+.pie-pagina{
+    display: -ms-inline-grid;
+    align-items: center;
+    justify-content: center;    
+}
+
+.fa-cog {
+    color: #ededed;
+}
